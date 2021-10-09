@@ -1,0 +1,17 @@
+.Statistics {
+  display: block;
+  text-align: start;
+  margin-left: 20px;
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.statsList {
+  list-style: none;
+  text-align: start;
+  padding: 0;
+}
+.statsList b {
+  font-weight: 500;
+}
