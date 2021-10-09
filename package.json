@@ -45,12 +45,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vpnzar/goit-react-hw-02-components.git"
+    "url": "git+https://github.com/vpnzar/goit-react-hw-02-feedback.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vpnzar/goit-react-hw-02-components/issues"
+    "url": "https://github.com/vpnzar/goit-react-hw-02-feedback/issues"
   }
 }
