@@ -7,7 +7,7 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <div className={s.statContainer}>
       {options.map(option => (
-        <div
+        <button
           className={s.statBtn}
           type="button"
           key={uuidv4()}
@@ -15,7 +15,7 @@ const FeedbackOptions = ({ options, onLeaveFeedback }) => {
           onClick={onLeaveFeedback}
         >
           {option}
-        </div>
+        </button>
       ))}
     </div>
   );
